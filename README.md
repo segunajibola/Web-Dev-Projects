@@ -7,6 +7,7 @@ A collection of simple web development projects to build as you learn plus links
 * HTML and Tailwindcss projects
 * Vanilla JavaScript projects
 * HTML, vanilla CSS and vanilla JavaScript projects
+* HTML, vanilla CSS and Reactjs projects
 
 
 
