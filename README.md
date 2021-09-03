@@ -2,7 +2,7 @@
 A collection of simple web development projects to build as you learn plus links to resources.
 
 ## Table of contents
-* [HTML and Vanilla CSS projects](#html-vanillacss-projects "Goto html-vanillacss-projects")
+* [HTML and Vanilla CSS Projects](#html-and-vanilla-css-projects "Goto html-vanillacss-projects")
 * HTML and Bootstrap projects
 * HTML and Tailwindcss projects
 * Vanilla JavaScript projects
@@ -10,5 +10,5 @@ A collection of simple web development projects to build as you learn plus links
 
 
 
-## HTML VanillaCSS projects
+### HTML and Vanilla CSS Projects
 
