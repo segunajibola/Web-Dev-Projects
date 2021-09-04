@@ -5,7 +5,7 @@ Resources are updated regularly, and links are tested before being put up.
 
 if you see any faulty link please report to the collaborators.
 
-Check out our [contribution guidelines]()
+Check out our [contribution guidelines](https://github.com/segunajibola/Web-Dev-Projects/blob/main/CONTRIBUTING.md)
 
 
 ## Table of contents
