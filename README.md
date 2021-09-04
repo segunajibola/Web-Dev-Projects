@@ -4,6 +4,8 @@ This is a collection of simple web development projects to build as you learn pl
 Resources are updated regularly, and links are tested before being put up.
 
 If you see any faulty link please report to the collaborators.
+- [Segun Ajibola](https://twitter.com/iamsegunajibola)
+- [Edem Gold](https://twitter.com/EdemGold1)
 
 Check out our [contribution guidelines](https://github.com/segunajibola/Web-Dev-Projects/blob/main/CONTRIBUTING.md)
 
