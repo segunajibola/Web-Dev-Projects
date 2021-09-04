@@ -16,14 +16,10 @@ Check out our [contribution guidelines](https://github.com/segunajibola/Web-Dev-
 * HTML and Tailwindcss projects
 * Vanilla JavaScript projects
 * HTML, vanilla CSS and vanilla JavaScript projects
-* HTML, vanilla CSS and Reactjs projects
-* Font Libraries
-* Icon Libraries
-* REACT Projects
-* Vue Projects
-* Web Developement YouTube Channels
-* Web Developement Podcasts
-* Web Developers on Twitter
+* HTML, CSS and Reactjs projects
+* REACT projects
+* Vue projects
+* Angular projects
 
 
 
