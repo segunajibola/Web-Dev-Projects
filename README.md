@@ -3,7 +3,7 @@ This is a collection of simple web development projects to build as you learn pl
 
 Resources are updated regularly, and links are tested before being put up.
 
-if you see any faulty link please report to the collaborators.
+If you see any faulty link please report to the collaborators.
 
 Check out our [contribution guidelines](https://github.com/segunajibola/Web-Dev-Projects/blob/main/CONTRIBUTING.md)
 
