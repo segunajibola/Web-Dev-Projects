@@ -23,5 +23,5 @@ Check out our [contribution guidelines](https://github.com/segunajibola/Web-Dev-
 
 
 
-### HTML and Vanilla CSS Projects
+### HTML, Vanilla CSS Projects
 
